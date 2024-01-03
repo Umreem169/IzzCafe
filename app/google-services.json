@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "419093124217",
+    "project_id": "izzcafe-ea40f",
+    "storage_bucket": "izzcafe-ea40f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419093124217:android:a76422379b93f1b1b0f0a8",
+        "android_client_info": {
+          "package_name": "com.example.izzcafe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE5PWWLOMRjQvVGyNjaCxoWRkHnr7W9lc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
